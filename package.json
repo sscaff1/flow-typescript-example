@@ -1,0 +1,25 @@
+{
+	"name": "typescript-example",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "webpack"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/cli": "^7.0.0-beta.54",
+		"@babel/core": "^7.0.0-beta.54",
+		"@babel/preset-env": "^7.0.0-beta.54",
+		"@babel/preset-flow": "^7.0.0-beta.54",
+		"babel-loader": "^8.0.0-beta.4",
+		"flow-bin": "^0.76.0",
+		"ts-loader": "^4.4.2",
+		"typescript": "^2.9.2",
+		"webpack": "^4.16.1",
+		"webpack-cli": "^3.0.8"
+	}
+}
