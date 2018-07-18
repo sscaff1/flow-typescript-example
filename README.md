@@ -4,9 +4,9 @@ This is a simple comparison of flow and typescript. Nothing here is fact. There 
 
 ## File Size
 
-<img src"./File size difference.PNG" alt="file Size Difference" />
+<img src="./File size difference.PNG" alt="file Size Difference" />
 
 
 ## Webpack does not compile with Type error
 
-<img src"./Typescript Error Example.PNG" alt="file Size Difference" />
+<img src="./Typescript Error Example.PNG" alt="file Size Difference" />
